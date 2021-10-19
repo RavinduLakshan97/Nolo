@@ -1323,8 +1323,8 @@ nav.main-menu {
 }
 
 .about .about-box {
-     text-align: center;
-     background-color: #fff;
+     text-align: justify;
+     background-color: #c8c8c8;
      box-shadow: #ddd 0px 0px 8px 1px;
 }
 
